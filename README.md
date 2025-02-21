@@ -14,8 +14,4 @@ Memory Match Game is a fun memory puzzle game where the objective is to match pa
 - CSS3
 - JavaScript (ES6+)
 
-## Demo
-[Link to live demo if hosted] (optional)
 
-## License
-This project is open-source under the MIT License.
